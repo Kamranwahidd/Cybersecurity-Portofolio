@@ -30,3 +30,12 @@ SOC = First line of defense
 L1 → L2 → Engineer → Manager
 
 Specialized roles require deeper knowledge and experience.
+
+SOC Roles
+SOC L1 Analyst → Triage and investigate initial alerts.
+SOC L2 Analyst → Deep investigation of suspicious incidents/malware.
+CERT Lead → Leads response to major incidents like ransomware.
+GRC Auditor → Handles compliance and security audits (e.g. PCI DSS).
+Penetration Tester → Finds and tests vulnerabilities.
+SOC Engineer → Maintains and troubleshoots SOC tools like SIEM.
+Threat Researcher → Studies threat actors, TTPs, and attack methods.
