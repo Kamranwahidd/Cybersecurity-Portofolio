@@ -1,1 +1,32 @@
-Hi, this is a test.
+Blue Team
+Blue Team = defensive security.
+The main goal is to monitor for attacks, detect threats, and respond quickly when something happens.
+A Blue Team can have different departments and roles depending on the size of the company.
+
+SOC — Security Operations Center
+The SOC is usually the central part of an organization's cybersecurity team. It is often the first line of defense and handles security alerts and attacks.
+
+Common SOC roles:
+L1 Analyst → Junior role. Checks/triages alerts and sends complicated cases to L2.
+L2 Analyst → More experienced. Investigates more advanced attacks.
+Engineer → Configures and maintains security tools such as SIEM and EDR.
+Manager → Manages the SOC team.
+
+CIRT / CSIRT / CERT
+If an incident is too serious or complicated for the SOC, a CIRT (Computer Incident Response Team) can handle it.
+They respond to major security incidents and investigate breaches.
+
+Specialized Blue Team Roles
+
+Larger companies may have more specialized roles:
+Digital Forensics Analyst → Investigates disks and memory to find evidence of attacks.
+Threat Intelligence Analyst → Researches threat actors and emerging threats.
+AppSec Engineer → Helps make software and the development process secure.
+AI Researcher → Researches AI-related threats and defenses.
+What I should remember
+
+Blue Team = Defense
+SOC = First line of defense
+L1 → L2 → Engineer → Manager
+
+Specialized roles require deeper knowledge and experience.
