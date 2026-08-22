@@ -16,3 +16,9 @@ Unexpected password reset + unusual contact: Possible social engineering.
 Login location isn't enough: A familiar location can still be a compromised account.
 User cannot confirm the request: Treat it as potentially unauthorized.
 Action: Disable the account and verify the request.
+
+Anomalous Login — Suspicious Activity
+Unusual login location: A location different from the user's normal location can indicate account compromise.
+Suspicious URLs before login: Misspelled/lookalike domains and unrelated websites are strong phishing indicators.
+Don't dismiss anomalies based on proximity: A nearby location can still be malicious.
+Action: Disable the account and investigate further.
