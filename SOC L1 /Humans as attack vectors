@@ -10,3 +10,9 @@ Be cautious with financial emails: Payment/invoice messages targeting finance st
 Password-protected archives (.rar, .zip): Attackers may use them to hide malicious files from email security scanners.
 Brand impersonation: An email claiming to be from a trusted company does not make it legitimate.
 Action: Block the suspicious email and investigate it.
+
+Social Engineering — Suspicious Password Reset
+Unexpected password reset + unusual contact: Possible social engineering.
+Login location isn't enough: A familiar location can still be a compromised account.
+User cannot confirm the request: Treat it as potentially unauthorized.
+Action: Disable the account and verify the request.
