@@ -1,1 +1,5 @@
-
+Suspicious Software / AV Detection
+Untrusted source + AV block = quarantine the file.
+Tell user to download software from the official source.
+❌ Never add a suspicious file to AV exclusions just to make it run.
+Key idea: Don't bypass security controls; contain → investigate → remediate.
